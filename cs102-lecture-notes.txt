@@ -1,0 +1,5 @@
+git add - to stage the changes
+git commit - to commit the cahges
+git status - to check the status of the files
+git clone -  to clone the repository
+git push origin - to push changes
