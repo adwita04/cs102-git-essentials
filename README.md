@@ -22,6 +22,8 @@ this is 'code'
 4. bullets
 
 this is a 
+
+
 ![tux](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
 
 ___
